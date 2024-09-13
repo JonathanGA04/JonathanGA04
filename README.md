@@ -8,14 +8,14 @@ I am a web developer in training, passionate about learning new technologies and
 💼 Open to junior web development job opportunities.<br>
 
 <h3>💻 Developing Skills</h3>
-<h4>HTML5:</h4> Semantic markup, web page structure.<br>
+<p></p><h4>HTML5:</h4> Semantic markup, web page structure.</p><br>
 <h4>CSS3:</h4> Responsive design, Flexbox, Grid.<br>
 <h4>JavaScript:</h4> Basic DOM manipulation, events, and programming logic.<br>
 <h4>Git & GitHub:</h4> Version control and project collaboration.<br>
 
 <h3>🚀 Projects</h3>
 <h4>Project 1: Weather App.</h4><br>
-Weather App is a web application that provides current weather information and short-term forecasts for any location in the world. Use the OpenWeatherMap API to get accurate and up-to-date data.<br><br>
+Weather App is a web application that provides current weather information and short-term forecasts for any location in the world. Use the OpenWeatherMap API to get accurate and up-to-date data.<br>
 
 <h4>Project 2: Letter.</h4><br>
 This is a small project developed by me to demonstrate my skills within HTML, CSS and JS. This is a card that contains a message, it also has two buttons, open and close. This so that when you press the open button the message comes out and when you close the message is put in and the letter is closed.
