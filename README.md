@@ -7,7 +7,7 @@ I am a web developer in training, passionate about learning new technologies and
 🤝 Looking to collaborate on projects and internships to enhance my skills.<br>
 💼 Open to junior web development job opportunities.<br>
 
-<h3>💻 Developing Skills</h3><br>
+<h3>💻 Developing Skills</h3>
 HTML5: Semantic markup, web page structure.<br>
 CSS3: Responsive design, Flexbox, Grid.<br>
 JavaScript: Basic DOM manipulation, events, and programming logic.<br>
@@ -20,8 +20,8 @@ Weather App is a web application that provides current weather information and s
 Project 2: Letter.<br>
 This is a small project developed by me to demonstrate my skills within HTML, CSS and JS. This is a card that contains a message, it also has two buttons, open and close. This so that when you press the open button the message comes out and when you close the message is put in and the letter is closed.
 
-<h3>📫 How to Contact Me</h3><br>
+<h3>📫 How to Contact Me</h3>
 Email: gonzalezjthn@gmail.com<br>
 LinkedIn: Jonayhan Aguilar Gonzalez.<br>
-<h3>📈 My Journey on GitHub</h3><br>
+<h3>📈 My Journey on GitHub</h3>
 Although I’m just starting, here you can see my contributions and how I’ve been growing as a developer: 
