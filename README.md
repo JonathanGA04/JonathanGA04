@@ -22,6 +22,6 @@ This is a small project developed by me to demonstrate my skills within HTML, CS
 
 <h3>📫 How to Contact Me</h3>
 Email: gonzalezjthn@gmail.com<br>
-LinkedIn: Jonayhan Aguilar Gonzalez.<br>
+LinkedIn: Jonathan Aguilar Gonzalez.<br>
 <h3>📈 My Journey on GitHub</h3>
 Although I’m just starting, here you can see my contributions and how I’ve been growing as a developer: 
