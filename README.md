@@ -10,7 +10,7 @@ I am a web developer in training, passionate about learning new technologies and
 <h3>💻 Developing Skills</h3>
 HTML5: Semantic markup, web page structure.<br>
 CSS3: Responsive design, Flexbox, Grid.<br>
-avaScript: Basic DOM manipulation, events, and programming logic.<br>
+JavaScript: Basic DOM manipulation, events, and programming logic.<br>
 Git & GitHub: Version control and project collaboration.<br>
 
 <h3>🚀 Projects</h3>
